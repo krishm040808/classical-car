@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ferrari</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Ferrari 250 GT</h1>
+        <img src="/Assets/images/ferrari.webp" alt="ferrari"> <height:100px></height:100px>
+
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>2 door raodster</li>
+            <li><strong>engine:3.0 liter v12 engine producing around 240 horsepower</li>
+            <li><strong>design:one of the first ferrari to be offically imported into the USA</li>
+            <li><strong>Popular Sports Car: its considered the most disirable classical cars in the world with its timeless desighn and impressive performace continues to captivate collectors and enthusiats.</li>
+            <li><strong>notable Features: ionic Pininfarina desighn, powerful v12 engine, excellent handling and performace, limited production making it highly collectible.</li>
+            <li><strong>Global Appeal: its a milesotne in ferraris history</li>
+          
+        </ul>
+
+
+        <p>The 1967 Mustang remains a highly sought-after classic car, admired for its style, performance, and cultural significance.</p>
+    </main>
+         <a href="/sale.html" class="back-button">Go Back</a>
+  =<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h3>About Us</h3>
+                <p>Classic car enthusiast with a passion for automotive history.</p>
+            </div>
+            <div class="col">
+                <h3>Contact</h3>
+                <ul>
+                    <li>Address: 123 Main St, Anytown</li>
+                    <li>Phone: +44 77684933843</li>
+                    <li>Email: haven@gmail.com</li>
+                </ul>
+            </div>
+            <div class="col">
+                <h3>Social Media</h3>
+                <ul>
+                    <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                    <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                    <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="copyright">&copy;classical car Haven. All rights reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>
