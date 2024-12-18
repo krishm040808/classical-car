@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classical Lamboghini</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Lamboghini</h1>
+        <img src="/Assets/images/sale.lambo.avif" alt="ferrari">
+
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>body style: 2-door coupe</li>
+            <li><strong>engine:3.5-liter v12 engine</li>
+            <li><strong>design: designed by Carrozzeria Touring.</li>
+            <li><strong>Lamborghini's First Production Car: The 350 GT was Lamborghini's first production car, marking the beginning of the legendary Italian automaker</li>
+            <li><strong>Elegant Design: The car's sleek and elegant design, penned by Carrozzeria Touring, was a significant departure from the brand's racing heritage.</li>
+            <li><strong>Comfortable Grand Tourer: While still a performance car, the 350 GT was designed for comfortable grand touring, with a luxurious interior and smooth ride..</li>
+          
+        </ul>
+
+
+        <p>The fast and furious acient mobility remains the most cleanest car in exisitence
+        </p>
+    </main>
+          <a href="/sale.html" class="back-button">Go Back</a>
+          <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>About Us</h3>
+                        <p>Classic car enthusiast with a passion for automotive history.</p>
+                    </div>
+                    <div class="col">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li>Address: 123 Main St, Anytown</li>
+                            <li>Phone: +44 77684933843</li>
+                            <li>Email: haven@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h3>Social Media</h3>
+                        <ul>
+                            <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                        <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="copyright">&copy; classical car Haven. All rights reserved.</p>
+            </div>
+        </footer>
+      
+</body>
+</html>
