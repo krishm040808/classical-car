@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MG MGB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>MB MGB</h1>   
+        <img src="/Assets/images/mh mgb.webp" alt="ferrari">
+
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>body style: 2 door roadster and coupe</li>
+            <li><strong>engine:1.8-liter-4 engine</li>
+            <li><strong>design: Classical British sports car desighn with a focus on simplicity and driving pleasure</li>
+            <li><strong>Popular Sports Car: The MGB was one of the most popular British sports cars ever produced, known for its affordable price, reliability, and engaging driving experience.</li>
+            <li><strong>Successor to the MGA: The MGB was a successor to the MGA and continued the tradition of affordable, fun-to-drive sports cars.</li>
+            <li><strong>Global Appeal: The MGB was exported to many countries and gained a loyal following worldwide</li>
+          </ul>
+
+
+        <p>The 1967 Mustang remains a highly sought-after classic car, admired for its style, performance, and cultural significance.</p>
+    </main>
+   
+    <a href="/sale.html" class="back-button">Go Back</a>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h3>About Us</h3>
+                    <p>expect the unexpected.</p>
+                </div>
+                <div class="col">
+                    <h3>Contact</h3>
+                    <ul>
+                        <li>Address: 123 Main St, Anytown</li>
+                        <li>Phone: +44 77684933843</li>
+                        <li>Email: haven@gmail.com</li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h3>Social Media</h3>
+                    <ul>
+                        <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                        <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p class="copyright">&copy; classical car Haven. All rights reserved.</p>
+        </div>
+    </footer>
+  
+</body>
+</html>
