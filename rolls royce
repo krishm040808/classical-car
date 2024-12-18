@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>rolls royce</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>rolls royce</h1>
+        <img src="/Assets/images/rolls royce.avif" alt="ferrari">
+
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>saloon, drophead coupe, convertible and limousine</li>
+            <li><strong>engine: 6.2 liter straight-six engine</li>
+            <li><strong>design: improved performace, and more spacious interior and a wider range of bodt styles</li>
+            <li><strong>Popular luxery Car: luxurious inteior with fine materials and craftmanship.</li>
+        </ul>
+
+
+        <p>the luxerious car you could think of during that time with the elegant structure.</p>
+    </main>
+         <a href="/sale.html" class="back-button">Go Back</a>
+         <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>About Us</h3>
+                        <p>Classic car enthusiast with a passion for automotive history.</p>
+                    </div>
+                    <div class="col">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li>Address: 123 Main St, Anytown</li>
+                            <li>Phone: +44 77684933843</li>
+                        <li>Email: haven@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h3>Social Media</h3>
+                        <ul>
+                            <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                        <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="copyright">&copy; 2023 Your Company Name. All rights reserved.</p>
+            </div>
+        </footer>
+      
+</body>
+</html>
