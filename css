@@ -1,0 +1,416 @@
+body {
+    font-family: Arial, sans-serif; /* Sets the font family for the entire page */
+    margin: 0;/* Removes default margin from the body */
+    padding: 0;/* Removes default padding from the body */
+    background-color: #f0f0f0; /* Light gray background */
+  }
+  
+  header {
+    background-color: black; /* Sets black background color for the header */
+    color: white;  /* Sets white text color for the header */
+    padding: 20px;  /* Adds 20px padding to the header */
+  }
+  
+  nav ul {
+    list-style-type: none; /* Removes default bullet points from navigation list */
+    margin: 0; /* Removes default margin from the navigation list */
+    padding: 0; /* Removes default padding from the navigation list */
+    display: flex; /* Arranges navigation items in a horizontal row */
+    justify-content: center; /* Centers navigation items horizontally */
+  }
+  
+  
+  nav li {
+    margin: 0 10px; /* Adds 10px margin between navigation items */
+  }
+  
+  nav a {
+    color: white; /* Sets white text color for navigation links */
+    text-decoration: none; /* Removes underline from navigation links */
+    transition: color 0.3s ease-in-out; /* Defines a smooth color transition on hover */
+  }
+  
+  nav a:hover {
+    color: red; /* Changes link text color to red on hover */
+  }
+  
+  .hero {
+    background-image: url('https://images.unsplash.com/photo-1559743520-7c95478709fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2xhc3NpY2FsJTIwY2FyfGVufDB8fDB8fHww'); /* Sets a background image for the hero section */
+    background-size: cover; /* Ensures the image covers the entire hero section */
+    background-position: center; /* Centers the background image */
+    height: 600px; /* Sets the height of the hero section */
+    display: flex; /* Arranges content within the hero section horizontally */
+    align-items: center; /* Aligns content vertically within the hero section */
+    justify-content: center; /* Aligns content horizontally within the hero section */
+  }
+  
+  .hero-content {
+    text-align: auto; /* Sets text alignment to inherit from parent element */
+    color: white; /* Sets white text color for hero content */
+    padding: 20px; /* Adds 20px padding to the hero content */
+    background-color: rgba(0, 0, 0, 0.7); /* Sets a semi-transparent black background for hero content */
+  }
+  
+  .about, .featured-cars {
+    padding: 50px; /* Adds 50px padding to both sections */
+    text-align: center; /* Centers text content within both sections */
+  }
+  
+  .featured-cars .car-item {
+    display: inline-block; /* Displays car items inline with spacing */
+    margin: 20px; /* Adds 20px margin around each car item */
+    text-align: center; /* Centers text content within each car item */
+  }
+  
+  .featured-cars img {
+    max-width: 800px; /* Sets a maximum width for car images */
+    height: auto; /* Maintains image aspect ratio */
+  }
+
+
+
+
+
+  body {
+    /* Sets the default font family and background color for the entire page */
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark gray text color */
+}
+
+header {
+    /* Styles the header section */
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    padding: 20px; /* Adds 20px padding around the header content */
+}
+
+nav ul {
+    /* Styles the navigation bar */
+    list-style-type: none; /* Removes default bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents navigation items from overflowing */
+}
+
+nav li {
+    float: left; /* Makes navigation items float left, creating a horizontal layout */
+}
+
+nav li a {
+    display: block; /* Makes each navigation link a block element */
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #f00; /* Red background on hover */
+    color: #fff; /* White text on hover */
+}
+
+main {
+    /* Styles the main content area */
+    padding: 20px; /* Adds 20px padding around the main content */
+}
+
+.service {
+    /* Styles the service section */
+    text-align: center; /* Centers content within the service section */
+    margin-bottom: 40px; /* Adds 40px margin below each service section */
+}
+
+.service img {
+    max-width: 100%; /* Ensures images don't exceed their container width */
+    margin-bottom: 20px; /* Adds 20px margin below each image */
+}
+
+
+
+
+
+
+
+
+body {
+    /* Sets the default font family and removes default margins and padding */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    /* Styles the header */
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text */
+    padding: 20px; /* Adds 20px padding around the header content */
+}
+
+nav ul {
+    /* Styles the navigation bar */
+    list-style-type: none; /* Removes default bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents navigation items from overflowing */
+}
+
+nav li {
+    /* Makes navigation items float left, creating a horizontal layout */
+    float: left;
+}
+
+nav li a {
+    /* Styles the navigation links */
+    display: block; /* Makes each navigation link a block element */
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    /* Styles the navigation links on hover */
+    background-color: #f00; /* Red background on hover */
+    color: #fff; /* White text on hover */
+}
+
+main {
+    /* Styles the main content area */
+    padding: 20px; /* Adds 20px padding around the main content */
+}
+
+.car {
+    /* Styles the car section */
+    text-align: center; /* Centers content within the car section */
+    margin-bottom: 40px; /* Adds 40px margin below each car section */
+}
+
+.car a {
+    /* Makes the image linkable */
+    display: block;
+}
+
+.car img {
+    /* Styles the car image */
+    width: 500px; /* Sets the image width to 500px */
+    transition: transform 0.3s ease-in-out; /* Smoothly scales the image on hover */
+}
+
+.car img:hover {
+    /* Styles the car image on hover */
+    transform: scale(1.2); /* Scales the image by 20% on hover */
+}
+
+
+
+
+
+
+
+
+body {
+    /* Sets the default font family and background color for the entire page */
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark gray text color */
+}
+
+header {
+    /* Styles the header section */
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    padding: 20px; /* Adds 20px padding around the header content */
+}
+
+nav ul {
+    /* Styles the navigation bar */
+    list-style-type: none; /* Removes default bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents navigation items from overflowing */
+}
+
+nav li {
+    /* Makes navigation items float left, creating a horizontal layout */
+    float: left;
+}
+
+nav li a {
+    /* Styles the navigation links */
+    display: block; /* Makes each navigation link a block element */
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    /* Styles the navigation links on hover */
+    background-color: #f00; /* Red background on hover */
+    color: #fff; /* White text on hover */
+}
+
+main {
+    /* Styles the main content area */
+    padding: 20px; /* Adds 20px padding around the main content */
+}
+
+form {
+    /* Styles the form */
+    max-width: 400px; /* Sets a maximum width for the form */
+    margin: 0 auto; /* Centers the form horizontally */
+}
+
+label {
+    /* Styles form labels */
+    display: block; /* Displays labels on a new line */
+    margin-bottom: 5px; /* Adds 5px margin below each label */
+}
+
+input, textarea {
+    /* Styles input fields and text areas */
+    width: 100%; /* Makes input fields fill the width of the form */
+    padding: 10px; /* Adds 10px padding to input fields */
+    margin-bottom: 10px; /* Adds 10px margin below each input field */
+}
+
+input[type="submit"] {
+    /* Styles the submit button */
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    border: none; /* Removes default border */
+    padding: 10px 20px; /* Adds padding to the button */
+    cursor: pointer; /* Changes the cursor to a pointer on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    /* Sets the default font family and background color for the entire page */
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark gray text color */
+}
+
+header {
+    /* Styles the header section */
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    padding: 20px; /* Adds 20px padding around the header content */
+}
+
+nav ul {
+    /* Styles the navigation bar */
+    list-style-type: none; /* Removes default bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents navigation items from overflowing */
+}
+
+nav li {
+    /* Makes navigation items float left, creating a horizontal layout */
+    float: left;
+}
+
+nav li a {
+    /* Styles the navigation links */
+    display: block; /* Makes each navigation link a block element */
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    /* Styles the navigation links on hover */
+    background-color: rgb(250, 0, 0); /* Red background on hover */
+    color: #fff; /* White text on hover */
+}
+
+main {
+    /* Styles the main content area */
+    padding: 20px; /* Adds 20px padding around the main content */
+}
+
+img {
+    /* Styles images */
+    max-width: 100%; /* Ensures images don't exceed their container width */
+    margin-bottom: 20px; /* Adds 20px margin below each image */
+}
+
+ul {
+    /* Styles unordered lists */
+    list-style-type: none; /* Removes default bullet points */
+    padding-left: 0; /* Removes default left padding */
+}
+
+li {
+    /* Styles list items */
+    margin-bottom: 10px; /* Adds 10px margin below each list item */
+}
+
+
+/* General styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    justify-content: end;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col {
+    flex: 1;
+    padding: 0 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 20px;
+}
