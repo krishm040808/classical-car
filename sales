@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classic Car Sales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Our Classic Car Inventory</h1>
+
+        <section class="car">
+            <a href="/mustang car details.html">
+                <img src="https://media.istockphoto.com/id/96340249/photo/classic-car.webp?a=1&b=1&s=612x612&w=0&k=20&c=nNjlksmHiD5h8Yu20o8hPkVxm-sfczoDFRRRHL9C9YE=" alt="Classic Car 1">
+            </a>
+            <h2>Mustang</h2>
+            <p>
+                <strong>Year:</strong> 1967
+                <br>
+                <strong>Make:</strong> Ford
+                <br>
+                <strong>Model:</strong> Mustang
+                <br>
+                <strong>price:</strong> £5 million
+                <br>
+                A classic American muscle car in pristine condition.
+                <br>
+                𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐦𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞
+            </p>
+        </section>
+
+        <section class="car">
+            <a href="/lambo.html">
+                <img src="/Assets/images/sale.lambo.avif" alt="Classic Car 1">
+            </a>
+            <h2>Lamboghini</h2>
+            <p>
+                <strong>Year:</strong> 1964-1966
+                <br>
+                <strong>Make:</strong> Lamboghini 
+                <br>
+                <strong>Model:</strong> 350 GT
+                <br>
+                <strong>Price:</strong> £3.2 million
+                <br>
+                A classic supercar
+                <br>
+                𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐦𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞
+            </p>
+        </section>
+
+        
+        <section class="car">
+            <a href="/audi.html">
+                <img src="/Assets/images/mh mgb.webp" alt="Classic Car 1">
+            </a>
+            <h2>MG</h2>
+            <p>
+                <strong>Year:</strong> 1962-1980
+                <br>
+                <strong>Make:</strong> MG
+                <br>
+                <strong>Model:</strong> MGB
+                <br>
+                <strong>Price:</strong> £2.5 million
+                British heritage
+                <br>
+                𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐦𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞
+            </p>
+        </section>
+
+
+         
+        <section class="car">
+            <a href="/ferrari.html">
+                <img src="/Assets/images/ferrari.webp" alt="Classic Car 1">
+            </a>
+            <h2>Ferrari</h2>
+            <p>
+                <strong>Year:</strong> 1957-2962
+                <br>
+                <strong>Make:</strong> Ferrari
+                <br>
+                <strong>Model:</strong> 250 GT california
+                <br>
+                <strong>Price:</strong> £10 milliom 
+                <br>
+                elegant desighn, powerful performace and rich history
+                <br>
+                𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐦𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞
+            </p>
+        </section>
+
+        </main>
+
+          
+        <section class="car">
+            <a href="/rolls royce.html">
+                <img src="/Assets/images/rolls royce.avif" alt="Classic Car 1">
+            </a>
+            <h2>rolls royce</h2>
+            <p>
+                <strong>Year:</strong> 1955-1966
+                <br>
+                <strong>Make:</strong> Rolls royce
+                <br>
+                <strong>Model:</strong> silver cloud
+                <br>
+                <strong>Price:</strong> £1 million
+                <br>
+                most beautiful and desriable rolls royce models ever produced
+                <br>
+                𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐦𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐩𝐥𝐞𝐚𝐬𝐞 𝐜𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐦𝐚𝐠𝐞
+            </p>
+        </section>
+
+        </main>
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>About Us</h3>
+                        <p>Classic car enthusiast with a passion for automotive history.</p>
+                    </div>
+                    <div class="col">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li>Address: 123 Main St, Anytown</li>
+                            <li>Phone: +44 77684933843</li>
+                        <li>Email: haven@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h3>Social Media</h3>
+                        <ul>
+                            <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                        <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="copyright">&copy; classical car Haven. All rights reserved.</p>
+            </div>
+        </footer>
+      
+</body>
+</html>
