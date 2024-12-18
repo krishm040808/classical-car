@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1967 Mustang: A Classic Icon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/home.html">Home</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/sale.html">Sales</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>1967 Mustang</h1>
+        <img src="https://media.istockphoto.com/id/96340249/photo/classic-car.webp?a=1&b=1&s=612x612&w=0&k=20&c=nNjlksmHiD5h8Yu20o8hPkVxm-sfczoDFRRRHL9C9YE=" alt="1967 Mustang">
+
+        <h2>Key Features</h2>
+        <ul>
+            <li><strong>Powerful Engine Options: The 1967 Mustang offered a range of powerful V8 engines, including the iconic 390 cubic-inch engine.</li>
+            <li><strong>Iconic Styling: The fastback design, introduced in 1967, became a signature look for the Mustang.</li>
+            <li><strong>Improved Interior: The interior was upgraded with more comfortable seating and a more upscale feel.</li>
+            <li><strong>Performance Handling: The 1967 Mustang offered excellent handling and performance, making it a favorite among enthusiasts.</li>
+        </ul>
+
+        <p>The 1967 Mustang remains a highly sought-after classic car, admired for its style, performance, and cultural significance.</p>
+    </main>
+         <a href="/sale.html" class="back-button">Go Back</a>
+         <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>About Us</h3>
+                        <p>Classic car enthusiast with a passion for automotive history.</p>
+                    </div>
+                    <div class="col">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li>Address: 123 Main St, Anytown</li>
+                            <li>Phone: +44 77684933843</li>
+                        <li>Email: haven@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h3>Social Media</h3>
+                        <ul>
+                            <li><a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Den_GB"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                        <li><a href="https://x.com/?lang=en"><i class="fab fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="copyright">&copy; 2023 Your Company Name. All rights reserved.</p>
+            </div>
+        </footer>
+      
+</body>
+</html>
